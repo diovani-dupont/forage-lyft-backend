@@ -1,4 +1,4 @@
-This repository contains the refactored code of a Back-EndBack-End Engineering project for the development of a component that is used by the new logistics system for Lyft's rental fleet.
+This repository contains the refactored code of a Back-End Engineering project for the development of a component that is used by the new logistics system for Lyft's rental fleet.
 
 Concepts covered in this program:
 
